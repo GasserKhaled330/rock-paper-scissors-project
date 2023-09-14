@@ -1,8 +1,8 @@
 {
-  "name": "rock-paper-scissors-long-practice",
+  "name": "rock-paper-scissors-project",
   "version": "1.0.0",
-  "description": "practice refactoring a Rock Paper Scissors terminal game",
-  "main": "practice.js",
+  "description": "a Rock Paper Scissors terminal game",
+  "main": "game.js",
   "scripts": {
     "test": "mocha"
   },
